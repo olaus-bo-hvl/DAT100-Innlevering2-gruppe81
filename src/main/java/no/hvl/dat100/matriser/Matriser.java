@@ -2,6 +2,7 @@ package no.hvl.dat100.matriser;
 
 public class Matriser {
 
+
 	// a)
 	public static void skrivUt(int[][] matrise) {
         for (int[] rad : matrise) {

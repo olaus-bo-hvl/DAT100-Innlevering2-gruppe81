@@ -88,7 +88,8 @@ class MatriserEnhetsTests {
 		assertFalse(speile == a);
 		assertArrayEquals(speilet,speile);
 	}
-	
+
+
 	@Test
 	void testerLik() {
 		
